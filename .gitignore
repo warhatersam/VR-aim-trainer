@@ -1,0 +1,26 @@
+# ===== Unity generated (DO NOT COMMIT) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Bb]uild*/
+[Bb]uilds/
+[Mm]emoryCaptures/
+
+# ===== IDE / editor junk =====
+.vscode/
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.suo
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
+
+# ===== Your extra folders (optional) =====
+texture\ not\ used/
+build/
